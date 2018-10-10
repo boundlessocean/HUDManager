@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = 'A short description of BLHUDManager.'
 
-  s.homepage         = 'https://github.com/fuhaiyang/BLHUDManager'
+  s.homepage         = 'https://github.com/boundlessocean/HUDManager'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fuhaiyang' => 'fuhaiyang@xycentury.com' }
-  s.source           = { :git => 'https://github.com/fuhaiyang/BLHUDManager.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/boundlessocean/HUDManager.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
