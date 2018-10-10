@@ -1,0 +1,6 @@
+framework module BLHUDManager {
+  umbrella header "BLHUDManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

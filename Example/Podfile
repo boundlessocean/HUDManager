@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BLHUDManager_Example' do
+  pod 'BLHUDManager', :path => '../'
+
+  target 'BLHUDManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
